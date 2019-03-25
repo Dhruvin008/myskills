@@ -4,6 +4,6 @@
 	<title>	Title</title>
 </head>
 <body>
-		<p>This is the starting code</p>
+		<p>This the starting code</p>
 </body>
 </html>
